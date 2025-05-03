@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/stan-mqz/rest_api_node_ts_server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/stan-mqz/products-manager-react.git
