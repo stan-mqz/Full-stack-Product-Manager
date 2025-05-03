@@ -1,6 +1,12 @@
-# Full Stack Product Manager
+### Full Stack Product Manager
 
-## English
+[Live Demo](https://products-manager-react-blond.vercel.app/)
+
+![image](https://github.com/user-attachments/assets/d6d5d874-0d09-4cea-9baa-9a13d8bb90ac)
+![image](https://github.com/user-attachments/assets/e080ba61-17cf-4aac-999f-9d9691968111)
+
+
+## 🌐 English
 
 A full-stack application for managing products with a modern frontend and robust backend architecture.
 
@@ -24,7 +30,7 @@ This project is a full-stack product management system built with modern web tec
 
 Before you begin, ensure you have the following installed:
 - Node.js (v14 or higher)
-- npm or yarn
+- npm 
 - Git
 
 ### Getting Started
@@ -62,17 +68,15 @@ The project is structured to allow independent development of frontend and backe
 - Frontend development happens in the `client` directory
 - Backend development happens in the `server` directory
 
-### Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+> [!IMPORTANT] 
+> 
+> For more detailed information about the frontend or backend implementation, please visit their respective repositories.
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## Español
+## 🌐 Español
 
 Una aplicación full-stack para la gestión de productos con un frontend moderno y una arquitectura backend robusta.
 
@@ -134,10 +138,7 @@ El proyecto está estructurado para permitir el desarrollo independiente de los 
 - El desarrollo del frontend se realiza en el directorio `client`
 - El desarrollo del backend se realiza en el directorio `server`
 
-### Contribuciones
-
-¡Las contribuciones son bienvenidas! No dudes en enviar un Pull Request.
-
-### Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
+> [!IMPORTANT]
+> 
+> Para más información detallada sobre la implementación del frontend o backend, por favor consultar sus respectivos repositorios.
+---
